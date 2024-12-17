@@ -86,6 +86,40 @@ pip install pandas numpy matplotlib statsmodels datetime seaborn yfinance
 
 ---
 
+## **Visualization Results**
+
+This section contains key visualizations generated from the analysis, including Tesla's daily stock price trends and heatmaps of company layoffs.
+
+1. Tesla Daily Stock Price Changes
+[Interactive Chart: Tesla Daily Stock Price](visualization%20results/daily_total_layoffs.html)
+Description: An interactive chart illustrating Tesla's daily stock price changes during the analyzed period.
+Usage: Open the HTML file in a browser to interact with the plot and explore trends.
+
+2. Company Layoff Heatmaps
+These heatmaps highlight the distribution of layoffs across companies and regions.
+
+Company Layoff Heatmap
+
+![Company Layoff Heatmap](visualization_results/us_layoff_heatmap_offline.png)
+Description: Displays the distribution of companies that initiated layoffs.
+Layoff Count Regional Heatmap
+
+![Layoff Count Heatmap](visualization_results/us_layoff_heatmap_weighted.png)
+Description: Visualizes the number of layoffs across different regions in the U.S.
+Usage: Open the respective HTML files in a browser to view interactive heatmaps.
+
+3. Regression Visualization Results
+These visualizations summarize the relationship between layoffs and stock price movements.
+
+Scatter Plot of Regression Results
+
+![Regression Scatter Plot](visualization_results/relationship_plot.png)
+Description: A scatter plot showing the relationship between cumulative stock returns and layoff percentages.
+Refined 2D Scatter Plot
+
+![Refined 2D Scatter Plot](visualization_results/refined_2d_scatter.png)
+Description: An enhanced version of the scatter plot, providing a clearer representation of regression results.
+
 ## **Summary of Findings**
 
 1. **Model and Data Issues**:  
@@ -99,7 +133,7 @@ pip install pandas numpy matplotlib statsmodels datetime seaborn yfinance
 3. **Conclusion**:  
    While layoffs are often linked to economic downturns, proactive adjustments by firms may foster investor confidence and stabilize stock prices.
 
-
+---
 
 ## **How to Reproduce**
 
