@@ -100,11 +100,11 @@ These heatmaps highlight the distribution of layoffs across companies and region
 
 Company Layoff Heatmap
 
-![Company Layoff Heatmap](visualization results/us_layoff_heatmap_offline.png)
+![Company Layoff Heatmap](visualization_results/us_layoff_heatmap_offline.png)
 Description: Displays the distribution of companies that initiated layoffs.
 Layoff Count Regional Heatmap
 
-![Layoff Count Heatmap](visualization results/us_layoff_heatmap_weighted.png)
+![Layoff Count Heatmap](visualization_results/us_layoff_heatmap_weighted.png)
 Description: Visualizes the number of layoffs across different regions in the U.S.
 Usage: Open the respective HTML files in a browser to view interactive heatmaps.
 
@@ -113,11 +113,11 @@ These visualizations summarize the relationship between layoffs and stock price 
 
 Scatter Plot of Regression Results
 
-![Regression Scatter Plot](visualization results/relationship_plot.png)
+![Regression Scatter Plot](visualization_results/relationship_plot.png)
 Description: A scatter plot showing the relationship between cumulative stock returns and layoff percentages.
 Refined 2D Scatter Plot
 
-![Refined 2D Scatter Plot](visualization results/refined_2d_scatter.png)
+![Refined 2D Scatter Plot](visualization_results/refined_2d_scatter.png)
 Description: An enhanced version of the scatter plot, providing a clearer representation of regression results.
 
 ## **Summary of Findings**
