@@ -1,0 +1,559 @@
+Company,Location,# Laid Off,Date,%,Industry,Source,Stage,$ Raised,Country,Date Added
+AMD,SF Bay Area,1000,11/13/2024,4%,Hardware,https://www.techope...,Post-IPO,"$1,600 ",United States,11/13/2024
+AppLovin,SF Bay Area,120,11/13/2024,21%,Marketing,https://www.sfgate.co...,Post-IPO,$227 ,United States,11/16/2024
+Chegg,SF Bay Area,319,11/13/2024,17%,Education,https://www.wsj.com/...,Post-IPO,$116 ,United States,11/13/2024
+Enphase Energy,SF Bay Area,500,11/11/2024,17%,Energy,https://www.sfgate.co...,Post-IPO,"$1,100 ",United States,11/11/2024
+23andMe,SF Bay Area,200,11/11/2024,40%,Healthcare,https://www.wsj.com/...,Post-IPO,$484 ,United States,11/11/2024
+Freshworks,SF Bay Area,660,11/7/2024,13%,Support,https://entrackr.com/...,Post-IPO,"$1,900 ",United States,11/7/2024
+Opendoor,SF Bay Area,700,11/7/2024,17%,Real Estate,https://investor.open...,Post-IPO,$35 ,United States,11/7/2024
+Akamai,Boston,250,11/7/2024,2%,Security,https://techcrunch.co...,Post-IPO,$30 ,United States,11/7/2024
+iRobot,Boston,105,11/6/2024,16%,Consumer,https://techcrunch.co...,Post-IPO,"$1,700 ",United States,11/7/2024
+Dropbox,SF Bay Area,527,10/30/2024,20%,Other,https://www.geekwire...,Post-IPO,$458 ,United States,10/30/2024
+F5,Seattle,100,10/29/2024,2%,Security,https://www.classcent...,Post-IPO,$168 ,United States,10/29/2024
+Coursera,SF Bay Area,150,10/25/2024,10%,Education,https://investors.upw...,Post-IPO,"$3,300 ",United States,10/25/2024
+Upwork,SF Bay Area,200,10/23/2024,21%,Other,https://finance.yahoo...,Post-IPO,$63 ,United States,10/23/2024
+Nikola,Phoenix,130,10/11/2024,15%,Transport,https://www.businessi...,Post-IPO,$82 ,United States,10/11/2024
+PubMatic,SF Bay Area,12,10/7/2024,1%,Marketing,https://www.businessi...,Post-IPO,$63 ,United States,10/7/2024
+Zapata Computing,Boston,250,10/7/2024,100%,Other,https://irzapata.ai/no...,Post-IPO,$82 ,United States,10/14/2024
+Olo,New York,650,9/23/2024,9%,Food,https://www.fsrmagaz...,Post-IPO,$184 ,United States,9/24/2024
+Luminar,Orlando,100,9/20/2024,15%,Transport,https://www.luminart...,Post-IPO,$780 ,United States,9/24/2024
+Microsoft,Seattle,650,9/12/2024,1%,Other,https://investors.ude...,Post-IPO,$1 ,United States,9/12/2024
+Udemy,SF Bay Area,280,9/11/2024,6%,Education,https://investors.ude...,Post-IPO,$311 ,United States,9/17/2024
+Lyft,SF Bay Area,30,9/4/2024,1%,Transport,https://www.cnbc.co...,Post-IPO,"$4,900 ",United States,9/4/2024
+Apple,SF Bay Area,100,8/27/2024,15%,Hardware,https://www.bloombe...,Post-IPO,"$1,200 ",United States,8/28/2024
+Velo3D,SF Bay Area,42,8/26/2024,13%,Manufacturing,https://www-siliconval....,Post-IPO,$305 ,United States,9/2/2024
+Redfin,Seattle,82,8/22/2024,15%,Real Estate,https://www.seattleti...,Post-IPO,$320 ,United States,8/28/2024
+Five9,SF Bay Area,190,8/20/2024,7%,Support,https://www.crn.com...,Post-IPO,$862 ,United States,8/20/2024
+GoPro,SF Bay Area,139,8/19/2024,15%,Consumer,https://www.reuters.c...,Post-IPO,$288 ,United States,8/20/2024
+AppLovin,SF Bay Area,61,8/15/2024,15%,Marketing,https://www.siliconval...,Post-IPO,"$1,600 ",United States,9/2/2024
+Sonos,Santa Barbara,100,8/14/2024,6%,Consumer,https://www.theverge...,Post-IPO,$455 ,United States,8/14/2024
+Grail,SF Bay Area,350,8/13/2024,15%,Healthcare,https://www.sfgate.co...,Post-IPO,$2 ,United States,8/19/2024
+Cisco,SF Bay Area,5600,8/9/2024,7%,Infrastructure,https://techcrunch.co...,Post-IPO,$219 ,United States,8/9/2024
+Fastly,SF Bay Area,800,8/8/2024,11%,Infrastructure,https://seekingalpha....,Post-IPO,$557 ,United States,8/8/2024
+Eventbrite,SF Bay Area,100,8/7/2024,11%,Consumer,https://www.marketw...,Post-IPO,$952 ,United States,8/8/2024
+LegalZoom,Los Angeles,600,8/7/2024,13%,Legal,https://finance.yahoo....,Post-IPO,$12 ,United States,8/7/2024
+Teradata,San Diego,400,8/6/2024,15%,Data,https://www.marketw...,Post-IPO,$12 ,United States,8/6/2024
+Intel,SF Bay Area,15000,8/1/2024,15%,Hardware,https://www.intel.com...,Post-IPO,$12 ,United States,8/1/2024
+IAC,New York,330,1/10/2024,,Consumer,https://www.bloomberg.com,Post-IPO,$899 ,United States,1/13/2024
+SoFi,SF Bay Area,,1/10/2024,4%,Finance,https://twitter.com,Post-IPO,"$3,000 ",United States,1/11/2024
+Nevro,SF Bay Area,63,1/9/2024,5%,Healthcare,https://www.marketwatch.com,Post-IPO,$556 ,United States,1/10/2024
+Rent the Runway,New York,37,1/9/2024,10%,Retail,https://www.wsj.com,Post-IPO,$526 ,United States,1/9/2024
+Unity,SF Bay Area,1800,1/8/2024,25%,Other,https://www.reuters.com,Post-IPO,"$1,300 ",United States,1/8/2024
+NuScale Power,Corvallis,154,1/8/2024,28%,Energy,https://www.oregonlive.com,Post-IPO,$470 ,United States,1/6/2024
+MeridianLink,Los Angeles,,1/8/2024,9%,Finance,https://d18rn0p25nw.cloudfront.net,Post-IPO,$485 ,United States,1/13/2024
+NanoString Technologies,Seattle,50,1/6/2024,9%,Healthcare,https://www.geekwire.com,Post-IPO,$826 ,United States,1/9/2024
+Cue Health,San Diego,94,1/5/2024,13%,Healthcare,https://www.360dx.com,Post-IPO,$899 ,United States,1/6/2024
+Xerox,Norwalk,3000,1/3/2024,15%,Hardware,https://www.cnbc.com,Post-IPO,"$27,200 ",United States,2/29/2024
+Intel,Sacramento,311,12/21/2023,100%,Retail,https://www.theregister.com,Post-IPO,$12 ,United States,12/19/2023
+Kaspien,Seattle,,12/19/2023,100%,Retail,https://www.geekwire.com,Post-IPO,$52 ,United States,12/21/2023
+Enphase Energy,SF Bay Area,350,12/18/2023,10%,Energy,https://enphase.com,Post-IPO,$116 ,United States,12/19/2023
+eBay,Tel Aviv,20,12/17/2023,,Retail,https://www.calcalistech.com,Post-IPO,"$1,200 ",United States,12/18/2023
+Invitae,SF Bay Area,235,12/13/2023,15%,Healthcare,https://sfstandard.com,Post-IPO,"$2,500 ",United States,12/14/2023
+Etsy,New York,225,12/13/2023,11%,Retail,https://www.cnbc.com,Post-IPO,$97 ,United States,12/13/2023
+Analog Devices,SF Bay Area,111,12/13/2023,,Manufacturing,https://www.bizjournals.com,Post-IPO,$694 ,United States,12/21/2023
+SmileDirectClub,Nashville,,12/9/2023,100%,Healthcare,https://www.cnn.com,Post-IPO,$694 ,United States,12/9/2023
+Rivian,Detroit,20,12/7/2023,,Transportation,https://www.theinformation.com,Post-IPO,"$10,700 ",United States,12/21/2023
+Bill.com,SF Bay Area,,12/5/2023,15%,Finance,https://www.investing.com,Post-IPO,$280 ,United States,12/5/2023
+TuSimple,San Diego,150,12/4/2023,,Transportation,https://www.morningstar.com,Post-IPO,$648 ,United States,12/5/2023
+Twilio,SF Bay Area,,12/4/2023,5%,Other,https://www.bloomberg.com,Post-IPO,$614 ,United States,12/4/2023
+Domo,Salt Lake City,,11/30/2023,7%,Data,https://finance.yahoo.com,Post-IPO,$689 ,United States,12/1/2023
+Unity,SF Bay Area,265,11/28/2023,4%,Other,https://www.reuters.com,Post-IPO,"$1,300 ",United States,11/29/2023
+Presto,SF Bay Area,,11/20/2023,17%,Food,https://investor.presto.com,Post-IPO,$167 ,United States,1/13/2024
+Singular Genomics,San Diego,,11/15/2023,10%,Healthcare,https://www.genomeweb.com,Post-IPO,$176 ,United States,11/22/2023
+Chewy,Miami,200,11/14/2023,,Retail,https://www.bizjournals.com,Post-IPO,$451 ,United States,11/14/2023
+Sarcos,Pittsburgh,150,11/14/2023,,Aerospace,https://www.cnbc.com,Post-IPO,$316 ,United States,1/1/2024
+Amazon,Seattle,180,11/13/2023,,Retail,https://skift.com,Post-IPO,$108 ,United States,11/13/2023
+TripAdvisor,Boston,125,11/12/2023,4%,Travel,https://www.theinformation.com,Post-IPO,$3 ,United States,12/22/2023
+Snap,Los Angeles,20,11/8/2023,,Consumer,https://www.pymnts.com,Post-IPO,"$4,900 ",United States,11/8/2023
+BigCommerce,Austin,,11/8/2023,7%,Retail,https://finance.yahoo.com,Post-IPO,$224 ,United States,11/9/2023
+Oportun,SF Bay Area,185,11/7/2023,7%,Finance,https://investors.nextdoor.com,Post-IPO,$766 ,United States,3/8/2024
+Zillow,Seattle,23,11/7/2023,,Real Estate,https://www.geekwire.com,Post-IPO,$97 ,United States,11/8/2023
+Nextdoor,SF Bay Area,,11/7/2023,25%,Consumer,https://news.bloomberg.com,Post-IPO,$736 ,United States,11/7/2023
+F5,Seattle,120,11/3/2023,2%,Security,https://investors.beyondmeat.com,Post-IPO,$366 ,United States,11/6/2023
+Viasat,San Diego,800,11/2/2023,10%,Other,https://www.barrons.com,Post-IPO,$122 ,United States,11/2/2023
+Beyond Meat,Los Angeles,65,11/2/2023,8%,Food,https://www.cnbc.com,Post-IPO,"$2,400 ",United States,11/6/2023
+Informatica,SF Bay Area,545,11/1/2023,10%,Data,https://www.cnbc.com,Post-IPO,$366 ,United States,11/1/2023
+Splunk,SF Bay Area,500,11/1/2023,7%,Data,https://www.cnbc.com,Post-IPO,$122 ,United States,11/1/2023
+Hippo Insurance,SF Bay Area,120,10/26/2023,20%,Finance,https://www.theinsurance.com,Post-IPO,"$1,300 ",United States,10/27/2023
+LegalZoom,Austin,100,10/19/2023,Legal,Legal,https://www.bizjournals.com,Post-IPO,$951 ,United States,10/19/2023
+Google,SF Bay Area,40,10/18/2023,,Consumer,https://www.cnbc.com,Post-IPO,$26 ,United States,10/18/2023
+Expedia,Seattle,100,10/17/2023,,Travel,https://skift.com,Post-IPO,"$3,300 ",United States,10/17/2023
+Qualcomm,San Diego,1258,10/12/2023,2%,Hardware,https://www.cnbc.com,Post-IPO,$392 ,United States,10/13/2023
+Lending Club,SF Bay Area,172,10/12/2023,14%,Finance,https://www.bloomberg.com,Post-IPO,$272 ,United States,10/13/2023
+MariaDB,SF Bay Area,84,10/12/2023,28%,Data,https://www.sec.gov,Post-IPO,$79 ,United States,10/12/2023
+Stitch Fix,Dallas,558,10/9/2023,Retail,Retail,https://www.retaildive.com,Post-IPO,$39 ,United States,10/15/2023
+Juniper Networks,SF Bay Area,440,10/6/2023,4%,Hardware,https://www.lightreading.com,Post-IPO,$504 ,United States,10/6/2023
+Shift,SF Bay Area,,10/6/2023,100%,Transportation,https://www.marketwatch.com,Post-IPO,$516 ,United States,10/6/2023
+Enovix,SF Bay Area,185,10/5/2023,,Energy,https://techcrunch.com,Post-IPO,$428 ,United States,10/5/2023
+IronNet,Washington,,10/2/2023,100%,Security,https://newsroom.snap.com,Post-IPO,"$4,900 ",United States,10/3/2023
+Snap,Los Angeles,170,9/27/2023,,Consumer,https://www.marketwatch.com,Post-IPO,$857 ,United States,9/27/2023
+Roblox,New York,30,9/22/2023,,Consumer,https://www.bizjournals.com,Post-IPO,$2 ,United States,9/21/2023
+Cisco,SF Bay Area,350,9/17/2023,,Infrastructure,https://www.bizjournals.com,Post-IPO,$438 ,United States,9/20/2023
+Sage Therapeutics,Boston,290,9/15/2023,,Healthcare,https://www.cnbc.com,Post-IPO,$26 ,United States,9/21/2023
+Google,SF Bay Area,75,9/13/2023,,Consumer,https://www.cnbc.com,Post-IPO,$301 ,United States,9/13/2023
+Akili Labs,Boston,,9/13/2023,40%,Healthcare,https://www.cnbc.com,Post-IPO,$208 ,United States,9/14/2023
+Roku,SF Bay Area,360,9/6/2023,10%,Media,https://seekingalpha.com,Post-IPO,$31 ,United States,9/6/2023
+iSpecimen,Boston,,9/6/2023,20%,Healthcare,https://www.cnbc.com,Post-IPO,$500 ,United States,9/9/2023
+Absci,Portland,30,9/5/2023,15%,Healthcare,https://www.geekwire.com,Post-IPO,$238 ,United States,9/7/2023
+Pegasystems,Boston,240,8/31/2023,4%,HR,https://www.bizjournals.com,Post-IPO,"$2,000 ",United States,8/31/2023
+Zebra Technologies,Chicago,700,8/28/2023,7%,Manufacturing,https://www.chicagobusiness.com,Post-IPO,$220 ,United States,8/28/2023
+BlackLine,Los Angeles,95,8/23/2023,5%,Finance,https://beststocks.com,Post-IPO,$28 ,United States,8/24/2023
+Illumina,San Diego,151,8/17/2023,,Healthcare,https://www.sandiego.com,Post-IPO,$30 ,United States,8/19/2023
+AppFolio,Santa Barbara,149,8/17/2023,9%,Real Estate,https://www.pacbiztimes.com,Post-IPO,$12 ,United States,8/18/2023
+Intel,SF Bay Area,140,8/17/2023,,Hardware,https://www.tomshardware.com,Post-IPO,$83 ,United States,8/19/2023
+SecureWorks,Atlanta,300,8/14/2023,15%,Security,https://techcrunch.com,Post-IPO,$50 ,United States,8/14/2023
+Shutterfly,Minneapolis,246,8/10/2023,,Manufacturing,https://www.cbsnews.com,Post-IPO,$665 ,United States,8/11/2023
+Blend,SF Bay Area,150,8/9/2023,19%,Finance,https://archive.fast-edition.com,Post-IPO,$748 ,United States,8/11/2023
+Thoughtworks,Chicago,579,8/8/2023,5%,Other,https://www.chicagobusiness.com,Post-IPO,$89 ,United States,10/16/2023
+Rapid7,Boston,470,8/8/2023,18%,Security,https://www.bizjournals.com,Post-IPO,$82 ,United States,8/8/2023
+Doximity,SF Bay Area,100,8/8/2023,10%,Healthcare,https://www.fiercehealthcare.com,Post-IPO,"$1,100 ",United States,8/8/2023
+23andMe,SF Bay Area,71,8/8/2023,11%,Healthcare,https://www.streetinsider.com,Post-IPO,$300 ,United States,8/8/2023
+Astra,SF Bay Area,,8/4/2023,25%,Aerospace,https://www.cnbc.com,Post-IPO,$574 ,United States,8/4/2023
+Planet,SF Bay Area,117,8/1/2023,10%,Aerospace,https://ir.wish.com,Post-IPO,"$1,600 ",United States,8/1/2023
+Wish,SF Bay Area,255,7/27/2023,34%,Retail,https://marketrealist.com,Post-IPO,$692 ,United States,8/1/2023
+AppHarvest,Lexington,,7/24/2023,100%,Food,https://skift.com,Post-IPO,$179 ,United States,7/27/2023
+Inspirato,Denver,50,7/19/2023,6%,Travel,https://seekingalpha.com,Post-IPO,$422 ,United States,7/20/2023
+Blue Apron,New York,,7/19/2023,20%,Food,https://seekingalpha.com,Post-IPO,$422 ,United States,8/9/2023
+Microsoft,Seattle,1000,7/18/2023,,Other,https://www.businessi.com,Post-IPO,$1 ,United States,7/10/2023
+Sarcos,Salt Lake City,75,7/17/2023,25%,Aerospace,https://www.therobot.com,Post-IPO,$316 ,United States,7/19/2023
+Amazon,Seattle,80,7/13/2023,,Retail,https://news.yahoo.com,Post-IPO,$108 ,United States,7/14/2023
+Tempo Automation,SF Bay Area,62,7/13/2023,,Other,https://investors.tempo.com,Post-IPO,$154 ,United States,7/17/2023
+Peloton,New York,11,7/13/2023,,Fitness,https://dol.ny.gov,Post-IPO,"$1,900 ",United States,7/17/2023
+Bark,New York,,7/13/2023,8%,Retail,https://seekingalpha.com,Post-IPO,$282 ,United States,7/26/2023
+Stitch Fix,Philadelphia,400,7/12/2023,,Retail,https://www.inquirer.com,Post-IPO,$79 ,United States,7/14/2023
+Freightos,Miami,50,7/12/2023,13%,Logistics,https://sourcingjournal.com,Post-IPO,$118 ,United States,7/12/2023
+Matterport,SF Bay Area,170,7/11/2023,30%,Data,https://investors.matterport.com,Post-IPO,$409 ,United States,7/11/2023
+Everquote,Evansville,100,7/11/2023,,Finance,https://www.insuranc.com,Post-IPO,$53 ,United States,7/11/2023
+Butterfly Network,Boston,,7/11/2023,25%,Healthcare,https://www.marketsc.com,Post-IPO,$530 ,United States,7/16/2023
+Shift,SF Bay Area,,7/11/2023,34%,Transportation,https://seekingalpha.com,Post-IPO,$504 ,United States,7/12/2023
+Latch,New York,,7/10/2023,59%,Security,https://www.marketsc.com,Post-IPO,$342 ,United States,7/10/2023
+Amdocs,St. Louis,2000,7/6/2023,6%,Support,https://www.calcalistech.com,Post-IPO,$214 ,United States,1/5/2023
+New Relic,SF Bay Area,255,6/27/2023,10%,Infrastructure,https://www.oregonlive.com,Post-IPO,"$1,100 ",United States,6/27/2023
+Lordstown Motors,Detroit,,6/30/2023,100%,Transportation,https://www.cnn.com,Post-IPO,"$5,600 ",United States,6/30/2023
+Payoneer,New York,200,6/27/2023,10%,Finance,https://www.calcalistech.com,Post-IPO,"$25,200 ",United States,6/27/2023
+Robinhood,SF Bay Area,150,6/26/2023,7%,Finance,https://www.wsj.com,Post-IPO,"$5,600 ",United States,6/26/2023
+Uber,SF Bay Area,200,6/21/2023,,Transportation,https://www.nasdaq.com,Post-IPO,"$3,300 ",United States,6/21/2023
+Nikola,Phoenix,270,6/16/2023,,Transportation,https://www.reuters.com,Post-IPO,"$3,300 ",United States,6/17/2023
+Qualcomm,SF Bay Area,84,6/16/2023,7%,Hardware,https://www.bizjournals.com,Post-IPO,$455 ,United States,6/16/2023
+Sonos,New York,130,6/14/2023,24%,Consumer,https://www.cnbc.com,Post-IPO,$340 ,United States,6/14/2023
+TrueCar,Los Angeles,102,6/14/2023,11%,Transportation,https://techcrunch.com,Post-IPO,$184 ,United States,6/14/2023
+Olo,New York,81,6/14/2023,15%,Food,https://www.restaurant.com,Post-IPO,$900 ,United States,6/14/2023
+Western Digital,SF Bay Area,211,6/13/2023,4%,Hardware,https://www.bizjournals.com,Post-IPO,$227 ,United States,10/20/2023
+Chegg,SF Bay Area,80,6/12/2023,8%,Education,https://www.bloomberg.com,Post-IPO,"$1,100 ",United States,6/13/2023
+23andMe,SF Bay Area,75,6/9/2023,8%,Healthcare,https://www.genome.com,Post-IPO,$349 ,United States,6/9/2023
+HashiCorp,SF Bay Area,211,6/7/2023,9%,Infrastructure,https://ir.hashicorp.com,Post-IPO,$462 ,United States,6/7/2023
+Coherent,SF Bay Area,196,6/6/2023,12%,Manufacturing,https://www.mercury.com,Post-IPO,"$1,300 ",United States,6/8/2023
+Edgio,Phoenix,134,6/6/2023,8%,Infrastructure,https://investors.edgio.com,Post-IPO,$7 ,United States,6/9/2023
+Unity,SF Bay Area,50,6/6/2023,3%,Other,https://www.mercury.com,Post-IPO,$394 ,United States,6/8/2023
+ZoomInfo,Vancouver,120,6/2/2023,10%,Sales,https://www.bizjournals.com,Post-IPO,$696 ,United States,6/2/2023
+Outbrain,New York,90,6/1/2023,5%,Marketing,https://www.calcalistech.com,Post-IPO,$769 ,United States,6/1/2023
+SentinelOne,SF Bay Area,53,6/1/2023,20%,Security,https://s28.q4cdn.com,Post-IPO,$30 ,United States,6/1/2023
+ZipRecruiter,Los Angeles,270,5/31/2023,10%,Recruiting,https://www.sec.gov,Post-IPO,$648 ,United States,5/31/2023
+DHI Group,New York,62,5/26/2023,30%,Recruiting,https://aimgroup.com,Post-IPO,$481 ,United States,5/26/2023
+AppFolio,Santa Barbara,45,5/22/2023,3%,Real Estate,https://www.pacbiztimes.com,Post-IPO,$233 ,United States,5/22/2023
+TuSimple,San Diego,30,5/18/2023,8%,Transportation,https://techcrunch.com,Post-IPO,$648 ,United States,5/18/2023
+Lemonade,New York,45,5/16/2023,20%,Finance,https://www.calcalistech.com,Post-IPO,$481 ,United States,5/16/2023
+CS Disco,Austin,53,5/12/2023,6%,Legal,https://www.bloomberg.com,Post-IPO,$233 ,United States,5/12/2023
+Microsoft,Seattle,158,5/10/2023,,Other,https://www.geekwire.com,Post-IPO,$1 ,United States,5/10/2023
+Similarweb,New York,60,5/10/2023,6%,Other,https://www.calcalistech.com,Post-IPO,$235 ,United States,5/11/2023
+Akamai,Boston,290,5/9/2023,3%,Security,https://www.bizjournals.com,Post-IPO,$35 ,United States,5/10/2023
+Marqeta,SF Bay Area,,5/9/2023,15%,Finance,https://www.fool.com,Post-IPO,$530 ,United States,5/10/2023
+Twist Bioscience,SF Bay Area,270,5/5/2023,25%,Healthcare,https://www.biospace.com,Post-IPO,$503 ,United States,5/5/2023
+Sabre,Dallas,1100,5/4/2023,15%,Travel,https://skift.com/2023,Post-IPO,"$1,700 ",United States,5/5/2023
+Unity,SF Bay Area,600,5/3/2023,8%,Other,https://www.wsj.com,Post-IPO,"$1,300 ",United States,5/3/2023
+Upwork,SF Bay Area,137,5/3/2023,15%,Other,https://www.upwork.com,Post-IPO,$168 ,United States,5/3/2023
+Brightcove,Boston,70,5/1/2023,10%,Marketing,https://www.bizjournals.com,Post-IPO,$145 ,United States,5/4/2023
+Cue Health,San Diego,326,4/28/2023,30%,Healthcare,https://www.sec.gov,Post-IPO,$899 ,United States,5/1/2023
+Dropbox,SF Bay Area,500,4/27/2023,16%,Other,https://blog.dropbox.com,Post-IPO,"$1,700 ",United States,4/27/2023
+Alteryx,Los Angeles,320,4/27/2023,11%,Data,https://siliconangle.com,Post-IPO,$613 ,United States,4/28/2023
+Vroom,New York,120,4/21/2023,11%,Transportation,https://www.hrkatha.com,Post-IPO,"$1,300 ",United States,4/21/2023
+Lyft,SF Bay Area,1072,4/20/2023,26%,Transportation,https://www.cnbc.com,Post-IPO,"$4,900 ",United States,4/20/2023
+BuzzFeed,New York,180,4/19/2023,15%,Media,https://variety.com/2023,Post-IPO,$696 ,United States,4/20/2023
+F5,Seattle,623,4/19/2023,9%,Security,https://www.reuters.com,Post-IPO,$307 ,United States,4/19/2023
+WalkMe,SF Bay Area,112,4/18/2023,10%,Other,https://www.calcalistech.com,Post-IPO,"$1,900 ",United States,4/18/2023
+Opendoor,SF Bay Area,560,4/25/2023,22%,Real Estate,https://www.inman.com,Post-IPO,$366 ,United States,4/25/2023
+Viasat,San Diego,300,4/12/2023,4%,Other,https://www.sandiego.com,Post-IPO,$347 ,United States,4/12/2023
+Science 37,Los Angeles,140,5/5/2023,,Healthcare,https://www.bizjournals.com,Post-IPO,$233 ,United States,5/5/2023
+Medtronic,SF Bay Area,59,4/12/2023,4%,Healthcare,https://www.massdev...,Post-IPO,"$5,900 ",United States,4/13/2023
+Redfin,Seattle,201,4/11/2023,92%,Real Estate,https://www.geekwire...,Post-IPO,$320 ,United States,4/13/2023
+Pear Therapeutics,Boston,170,4/7/2023,13%,Healthcare,https://amplitude.co...,Post-IPO,$409 ,United States,4/7/2023
+Amplitude,SF Bay Area,99,4/5/2023,23%,Data,https://therealdeal.co...,Post-IPO,$311 ,United States,4/5/2023
+View,SF Bay Area,170,4/3/2023,6%,Other,https://www.wsoctv.c...,Post-IPO,"$2,300 ",United States,4/4/2023
+Roku,SF Bay Area,200,3/30/2023,13%,Media,https://www.wsj.com/...,Post-IPO,$208 ,United States,3/30/2023
+LendingTree,Charlotte,150,3/30/2023,6%,Finance,https://in.investing.co...,Post-IPO,$2 ,United States,3/31/2023
+Electronic Arts,SF Bay Area,780,3/29/2023,28%,Consumer,https://techcrunch.co...,Post-IPO,$365 ,United States,3/29/2023
+Seagate,SF Bay Area,480,3/29/2023,30%,Hardware,https://techcrunch.co...,Post-IPO,$504 ,United States,3/31/2023
+iCAD,Nashua,23,3/29/2023,18%,Healthcare,https://investors.aeye...,Post-IPO,"$8,300 ",United States,4/7/2023
+Shift,SF Bay Area,1300,3/29/2023,33%,Transportation,https://www.mobihea...,Post-IPO,$314 ,United States,3/29/2023
+Lucid Motors,SF Bay Area,46,3/28/2023,35%,Transportation,https://www.bloombe...,Post-IPO,$143 ,United States,3/28/2023
+AEye,SF Bay Area,320,3/28/2023,4%,Transportation,https://www.moneyc...,Post-IPO,$108 ,United States,3/29/2023
+Better Therapeutics,SF Bay Area,9000,3/27/2023,2%,Healthcare,https://www.siliconval...,Post-IPO,$484 ,United States,3/31/2023
+Marvell,SF Bay Area,114,3/21/2023,21%,Hardware,https://www.geekwire...,Post-IPO,$71 ,United States,3/21/2023
+Amazon,Seattle,108,3/20/2023,25%,Retail,https://www.crainsne...,Post-IPO,$365 ,United States,3/20/2023
+Freshworks,SF Bay Area,40,3/16/2023,4%,Support,https://www.massdev...,Post-IPO,$108 ,United States,3/16/2023
+Coherent,SF Bay Area,32,3/16/2023,8%,Manufacturing,https://www.bloombe...,Post-IPO,$143 ,United States,3/17/2023
+Leafly,Seattle,320,3/17/2023,6%,Retail,https://www.moneyc...,Post-IPO,$314 ,United States,3/16/2023
+Boxed,New York,1300,3/17/2023,92%,Retail,https://www.siliconval...,Post-IPO,$365 ,United States,3/17/2023
+Meta,SF Bay Area,10000,3/14/2023,70%,Consumer,https://about.fb.com,Post-IPO,"$26,000 ",United States,3/14/2023
+Samsung,SF Bay Area,30,3/14/2023,8%,Hardware,https://www.zeebiz.com,Post-IPO,$157 ,United States,3/15/2023
+Neoleukin Therapeutics,Seattle,,3/9/2023,70%,Healthcare,https://www.geekwire.com,Post-IPO,$525 ,United States,3/13/2023
+SiriusXM,New York,475,3/6/2023,8%,Media,https://variety.com,Post-IPO,$317 ,United States,3/6/2023
+Embark Trucks,SF Bay Area,230,3/3/2023,70%,Transport,https://techcrunch.com,Post-IPO,"$6,400 ",United States,3/3/2023
+Airbnb,SF Bay Area,30,3/3/2023,3%,Travel,https://www.bloomberg.com,Post-IPO,$148 ,United States,3/3/2023
+Zscaler,SF Bay Area,177,3/2/2023,4%,Security,https://www.crn.com,Post-IPO,$748 ,United States,3/3/2023
+Thoughtworks,Chicago,500,3/1/2023,14%,Other,https://techcrunch.com,Post-IPO,$839 ,United States,3/1/2023
+Sonder,SF Bay Area,100,3/1/2023,8%,Travel,https://www.sec.gov,Post-IPO,$2 ,United States,3/1/2023
+Electronic Arts,Baton Rouge,200,2/28/2023,9%,Consumer,https://kotaku.com,Post-IPO,$557 ,United States,2/28/2023
+Eventbrite,SF Bay Area,80,2/28/2023,2%,Consumer,https://www.reuters.com,Post-IPO,$485 ,United States,2/28/2023
+MeridianLink,Los Angeles,,2/27/2023,10%,Finance,https://www.marketsc.com,Post-IPO,"$3,000 ",United States,2/27/2023
+Palantir,Denver,75,2/25/2023,18%,Data,https://www.cnbc.com,Post-IPO,"$12,900 ",United States,2/25/2023
+Twitter,SF Bay Area,200,2/24/2023,5%,Consumer,https://www.nytimes.com,Post-IPO,$132 ,United States,2/24/2023
+Lucira Health,SF Bay Area,26,2/24/2023,10%,Healthcare,https://www.mercury.com,Post-IPO,"$1,900 ",United States,2/24/2023
+EQRx,Boston,,2/23/2023,3%,Healthcare,https://www.business.com,Post-IPO,$400 ,United States,2/23/2023
+EVgo,Los Angeles,40,2/17/2023,6%,Transport,https://www.expressnews.com,Post-IPO,$279 ,United States,3/31/2023
+TaskUs,San Antonio,186,2/16/2023,8%,Support,https://www.ktvb.com,Post-IPO,$50 ,United States,2/16/2023
+Micron,Boise,2400,3/31/2023,5%,Hardware,https://www.cnbc.com,Post-IPO,$536 ,United States,2/17/2023
+DocuSign,SF Bay Area,680,2/16/2023,10%,Sales,https://www.cnbc.com,Post-IPO,$536 ,United States,2/16/2023
+The RealReal,SF Bay Area,230,2/16/2023,7%,Retail,https://www.theinfor...,Post-IPO,$356 ,United States,2/16/2023
+Smartsheet,Seattle,85,2/16/2023,3%,Other,https://www.bizjourn...,Post-IPO,$152 ,United States,2/17/2023
+DigitalOcean,New York,200,2/15/2023,11%,Infrastructure,https://www.theregist...,Post-IPO,$491 ,United States,2/15/2023
+Sprinklr,New York,100,2/15/2023,4%,Support,https://techcrunch.co...,Post-IPO,$429 ,United States,2/15/2023
+Momentive,SF Bay Area,,2/15/2023,14%,Marketing,https://d18rn0p25nw...,Post-IPO,"$1,100 ",United States,2/16/2023
+Vicarious Surgical,Boston,,2/15/2023,14%,Healthcare,https://www.medtech...,Post-IPO,$185 ,United States,2/16/2023
+Blackbaud,Charleston,500,2/14/2023,10%,Other,https://about.udemy....,Post-IPO,$311 ,United States,2/15/2023
+Udemy,SF Bay Area,,2/14/2023,17%,Education,https://www.marketw...,Post-IPO,$614 ,United States,2/14/2023
+Twilio,SF Bay Area,1500,2/13/2023,28%,Other,https://seekingalpha....,Post-IPO,$298 ,United States,2/13/2023
+Rigetti Computing,SF Bay Area,,2/10/2023,10%,Hardware,https://www.cnbc.co...,Post-IPO,$566 ,United States,2/10/2023
+Oportun,SF Bay Area,155,2/9/2023,7%,Finance,https://investors.bark....,Post-IPO,$413 ,United States,3/1/2023
+GitLab,SF Bay Area,130,2/9/2023,12%,Product,https://techstartups.c...,Post-IPO,$800 ,United States,2/9/2023
+Bark,New York,126,2/9/2023,8%,Retail,https://www.wsj.com/...,Post-IPO,"$1,500 ",United States,2/9/2023
+GoDaddy,Phoenix,530,2/8/2023,19%,Marketing,https://www.cnbc.co...,Post-IPO,$276 ,United States,2/8/2023
+Affirm,SF Bay Area,500,2/8/2023,15%,Finance,https://www.reuters.c...,Post-IPO,"$1,200 ",United States,2/8/2023
+Zoom,SF Bay Area,1300,2/7/2023,9%,Other,https://www.marketw...,Post-IPO,$83 ,United States,2/7/2023
+eBay,SF Bay Area,500,2/7/2023,5%,Retail,https://www.bloombe...,Post-IPO,"$1,200 ",United States,2/7/2023
+SecureWorks,Atlanta,212,2/7/2023,5%,Security,https://www.marketw...,Post-IPO,$536 ,United States,2/7/2023
+Dell,Austin,6650,2/6/2023,7%,Hardware,https://www.bloombe...,Post-IPO,$566 ,United States,2/6/2023
+Okta,SF Bay Area,300,2/2/2023,9%,Security,https://www.bloombe...,Post-IPO,"$1,200 ",United States,2/2/2023
+Autodesk,SF Bay Area,250,2/2/2023,2%,Other,https://www.bloombe...,Post-IPO,,United States,2/3/2023
+Getaround,SF Bay Area,,2/2/2023,10%,Transport,https://techcrunch.co...,Post-IPO,$948 ,United States,2/2/2023
+Splunk,SF Bay Area,325,2/1/2023,4%,Data,https://www.marketw...,Post-IPO,"$2,400 ",United States,2/1/2023
+Pinterest,SF Bay Area,150,2/1/2023,,Consumer,https://www.bloombe...,Post-IPO,"$1,500 ",United States,2/1/2023
+DraftKings,Boston,140,2/1/2023,4%,Consumer,https://www.cnbc.co...,Post-IPO,$719 ,United States,2/1/2023
+Cyren,Washington,121,2/1/2023,,Security,https://ircyren.com/w...,Post-IPO,$161 ,United States,2/1/2023
+Appgate,Miami,34,2/1/2023,8%,Security,https://seekingalpha...,Post-IPO,,United States,2/1/2023
+Frequency Therapy,Boston,,2/1/2023,50%,Healthcare,https://www.bizjourn...,Post-IPO,$76 ,United States,2/26/2023
+Match Group,New York,,2/1/2023,8%,Consumer,https://www.bloombe...,Post-IPO,,United States,2/14/2023
+Rivian,Detroit,,2/1/2023,6%,Transport,https://www.reuters.c...,Post-IPO,"$10,700 ",United States,2/1/2023
+PayPal,SF Bay Area,2000,1/31/2023,7%,Finance,https://www.cnbe.co...,Post-IPO,$216 ,United States,1/31/2023
+NetApp,SF Bay Area,960,1/31/2023,8%,Data,https://www.theregist...,Post-IPO,,United States,1/31/2023
+Workday,SF Bay Area,525,1/31/2023,3%,HR,https://www.cnbe.co...,Post-IPO,$230 ,United States,1/31/2023
+HubSpot,Boston,500,1/31/2023,7%,Marketing,https://www.marketw...,Post-IPO,$100 ,United States,1/31/2023
+Upstart,SF Bay Area,365,1/31/2023,20%,Finance,https://www.marketw...,Post-IPO,$144 ,United States,1/31/2023
+Wish,SF Bay Area,150,1/31/2023,17%,Retail,https://irwish.com/no...,Post-IPO,"$1,600 ",United States,1/31/2023
+National Instruments,Austin,,1/31/2023,4%,Hardware,https://wwwemlviz.co...,Post-IPO,,United States,2/4/2023
+Groupon,Chicago,500,1/30/2023,,Retail,https://www.chicagob...,Post-IPO,"$1,400 ",United States,1/30/2023
+Intel,SF Bay Area,343,1/30/2023,,Hardware,https://wwwsfgate.co...,Post-IPO,$12 ,United States,1/30/2023
+BM Technologies,Philadelphia,,1/30/2023,25%,Finance,https://irbmtxinc.co...,Post-IPO,,United States,2/1/2023
+Quantum SI,New Haven,100,1/30/2023,12%,Healthcare,https://www.genome...,Post-IPO,$425 ,United States,2/2/2023
+Synopsys,SF Bay Area,10000,1/27/2023,6%,Other,https://www.eastbayti...,Post-IPO,$455 ,United States,1/28/2023
+Confluent,SF Bay Area,300,1/26/2023,30%,Data,https://investors.confl...,Post-IPO,$550 ,United States,1/26/2023
+IBM,New York,3900,1/25/2023,5%,Hardware,https://www.bloombe...,Post-IPO,$834 ,United States,1/25/2023
+Lam Research,SF Bay Area,1300,1/25/2023,7%,Hardware,https://www.bloombe...,Post-IPO,$173 ,United States,1/25/2023
+Guardant Health,SF Bay Area,130,1/25/2023,7%,Healthcare,https://www.genome...,Post-IPO,$295 ,United States,1/25/2023
+Vacasa,Portland,1300,1/24/2023,17%,Travel,https://www.oregonii...,Post-IPO,$117 ,United States,1/24/2023
+PagerDuty,SF Bay Area,,1/24/2023,7%,Product,https://www.marketw...,Post-IPO,$26 ,United States,1/24/2023
+Innovid,New York,,1/23/2023,10%,Marketing,https://www.marketw...,Post-IPO,"$1,700 ",United States,1/24/2023
+Yext,New York,40,1/23/2023,8%,Marketing,https://www.marketw...,Post-IPO,"$1,200 ",United States,1/23/2023
+Google,SF Bay Area,12000,1/20/2023,6%,Consumer,https://www.nytimes...,Post-IPO,"$22,200 ",United States,1/20/2023
+Wayfair,Boston,1750,1/20/2023,10%,Retail,https://www.wsj.com...,Post-IPO,$233 ,United States,1/20/2023
+Capital One,Washington,1100,1/19/2023,9%,Finance,https://www.reuters.c...,Post-IPO,$400 ,United States,1/19/2023
+Proterra,SF Bay Area,300,1/19/2023,4%,Transport,https://news.yahoo.c...,Post-IPO,$225 ,United States,1/19/2023
+WeWork,New York,300,1/19/2023,6%,Real Estate,https://d18rn0p25nw...,Post-IPO,$1 ,United States,1/19/2023
+CS Disco,Austin,62,1/19/2023,9%,Legal,https://seekingalpha...,Post-IPO,$172 ,United States,1/19/2023
+Magnite,Los Angeles,,1/19/2023,6%,Marketing,https://www.genome...,Post-IPO,$425 ,United States,1/19/2023
+Personalis,SF Bay Area,,1/19/2023,30%,Healthcare,https://www.usatoday...,Post-IPO,$455 ,United States,1/19/2023
+Microsoft,Seattle,10000,1/18/2023,5%,Other,https://digitalhealth...,Post-IPO,$550 ,United States,1/18/2023
+Teladoc Health,New York,300,1/18/2023,6%,Healthcare,https://digitalhealth...,Post-IPO,$834 ,United States,1/18/2023
+Vroom,New York,275,1/18/2023,20%,Transport,https://seekingalpha...,Post-IPO,"$1,300 ",United States,1/19/2023
+8x8,SF Bay Area,155,1/18/2023,7%,Support,https://www.channelf...,Post-IPO,$253 ,United States,1/18/2023
+Inspirato,Denver,109,1/18/2023,12%,Travel,https://sports.yahoo.c...,Post-IPO,$179 ,United States,1/19/2023
+nCino,Wilmington,100,1/18/2023,7%,Finance,https://portcitydaily.c...,Post-IPO,"$1,100 ",United States,1/18/2023
+Starry,Boston,100,1/18/2023,24%,Other,https://seekingalpha...,Post-IPO,$260 ,United States,1/18/2023
+Bally's Interactive,Providence,284,1/18/2023,15%,Consumer,https://www.legalspo...,Post-IPO,$946 ,United States,1/21/2023
+Lucid Diagnostics,New York,,1/18/2023,20%,Healthcare,https://www.genome...,Post-IPO,,United States,1/25/2023
+Unity,SF Bay Area,,1/17/2023,3%,Other,https://www.wsj.com...,Post-IPO,"$1,300 ",United States,1/17/2023
+RingCentral,SF Bay Area,30,1/17/2023,,Support,https://www.channelf...,Post-IPO,$44 ,United States,1/17/2023
+LiveVox,SF Bay Area,,1/17/2023,16%,Finance,https://www.marketw...,Post-IPO,$12 ,United States,1/20/2023
+Lending Club,SF Bay Area,225,1/12/2023,14%,Healthcare,https://www.bloombe...,Post-IPO,"$1,300 ",United States,1/12/2023
+Definitive Health,Boston,55,1/12/2023,6%,Healthcare,https://www.cmlviz.co...,Post-IPO,,United States,1/12/2023
+Akili Labs,Boston,46,1/12/2023,30%,Healthcare,https://bhbusiness.co...,Post-IPO,$392 ,United States,1/14/2023
+Life360,SF Bay Area,,1/12/2023,14%,Consumer,https://investors.life3...,Post-IPO,$301 ,United States,1/12/2023
+Qualtrics,Salt Lake City,270,1/11/2023,5%,Other,https://www.marketw...,Post-IPO,$158 ,United States,1/12/2023
+HashiCorp,SF Bay Area,69,1/11/2023,,Security,https://www.linkedin...,Post-IPO,$400 ,United States,1/12/2023
+Coinbase,SF Bay Area,950,1/10/2023,20%,Crypto,https://www.cnbc.co...,Post-IPO,$349 ,United States,1/10/2023
+Informatica,SF Bay Area,450,1/10/2023,7%,Data,https://www.channelf...,Post-IPO,$549 ,United States,1/10/2023
+Blend,SF Bay Area,340,1/10/2023,28%,Finance,,Post-IPO,$665 ,United States,1/10/2023
+Fate Therapeutics,San Diego,315,1/9/2023,57%,Healthcare,,Post-IPO,"$1,200 ",United States,1/12/2023
+Avaya,Durham,180,8/1/2024,3%,Other,https://www.uctoday.com,Post-IPO,$700 ,United States,11/8/2024
+Match Group,New York,,7/31/2024,6%,Consumer,https://www.techcrunch.com,Post-IPO,$105 ,United States,8/1/2024
+NerdWallet,SF Bay Area,,7/30/2024,15%,Finance,https://www.marketwatch.com,Post-IPO,$65 ,United States,7/31/2024
+Salesforce,SF Bay Area,300,7/15/2024,,Sales,https://www.bloomberg.com,Post-IPO,$18 ,United States,7/15/2024
+Intuit,SF Bay Area,1800,7/10/2024,10%,Finance,https://www.bloomberg.com,Post-IPO,"$2,000 ",United States,7/10/2024
+UIPath,New York,420,7/9/2024,10%,Other,https://www.cnbc.com,Post-IPO,$574 ,United States,7/10/2024
+Planet,SF Bay Area,180,6/26/2024,17%,Aerospace,https://spacenews.com,Post-IPO,"$1,600 ",United States,6/28/2024
+Ginkgo Bioworks,Boston,400,6/20/2024,35%,Healthcare,https://www.bostonglobe.com,Post-IPO,$400 ,United States,6/23/2024
+Wex,Portland,375,6/18/2024,5%,Finance,https://www.wsj.com,Post-IPO,"$1,700 ",United States,6/23/2024
+Fisker,Los Angeles,,6/17/2024,100%,Transportation,https://www.businessinsider.com,Post-IPO,$227 ,United States,6/19/2024
+Chegg,SF Bay Area,441,6/5/2024,23%,Education,https://www.investing.com,Post-IPO,$117 ,United States,6/19/2024
+Yext,New York,,6/3/2024,12%,Marketing,https://www.theverge.com,Post-IPO,$1 ,United States,6/5/2024
+Microsoft,Seattle,1000,5/31/2024,,Other,https://electrek.co,Post-IPO,$26 ,United States,6/3/2024
+Google,SF Bay Area,100,5/24/2024,,Consumer,https://www.fiercebiotech.com,Post-IPO,"$8,300 ",United States,6/1/2024
+Lucid Motors,SF Bay Area,400,5/22/2024,6%,Transportation,https://www.sfchronicle.com,Post-IPO,$899 ,United States,5/24/2024
+Cue Health,San Diego,180,5/10/2024,100%,Healthcare,https://skift.com,Post-IPO,"$10,700 ",United States,5/23/2024
+Rivian,Los Angeles,120,5/6/2024,,Transportation,https://www.theinformation.com,Post-IPO,$26 ,United States,5/11/2024
+Google,SF Bay Area,57,8/1/2024,,Travel,https://www.bloomberg.com,Post-IPO,$574 ,United States,6/28/2024
+Vacasa,Portland,800,7/30/2024,13%,Energy,https://www.bostonglobe.com,Post-IPO,"$1,600 ",United States,6/23/2024
+Enovix,SF Bay Area,170,6/20/2024,33%,Finance,https://spacenews.com,Post-IPO,$400 ,United States,6/23/2024
+Editas Medicine,Boston,,1/9/2023,20%,Healthcare,https://endpts.com/e...,Post-IPO,$656 ,United States,1/19/2023
+WalkMe,SF Bay Area,43,1/8/2023,3%,Other,https://www.360dx.co...,Post-IPO,$307 ,United States,1/9/2023
+Cue,San Diego,388,1/5/2023,,Healthcare,https://gizmodo.com....,Post-IPO,$999 ,United States,1/6/2023
+SoundHound,SF Bay Area,200,1/5/2023,50%,Other,https://www.theinfor...,Post-IPO,$326 ,United States,1/5/2023
+Twitter,SF Bay Area,40,1/5/2023,,Consumer,https:/Avww.cnbc.co...,Post-IPO,"$12,900 ",United States,1/6/2023
+Stitch Fix,SF Bay Area,,1/5/2023,20%,Retail,https://www.cmlviz.co...,Post-IPO,$79 ,United States,1/5/2023
+TCR2,Boston,284,1/4/2023,40%,Healthcare,https://www.wsj.com/...,Post-IPO,$173 ,United States,1/5/2023
+Amazon,Seattle,8000,1/4/2023,2%,Retail,https://www.nytimes...,Post-IPO,$108 ,United States,1/4/2023
+Salesforce,SF Bay Area,8000,1/4/2023,10%,Sales,https://en.globes.co.il...,Post-IPO,$65 ,United States,1/4/2023
+Kaltura,New York,75,1/4/2023,11%,Media,https://www.marketsc...,Post-IPO,$166 ,United States,1/5/2023
+Butterfly Network,Boston,,1/3/2023,25%,Healthcare,https://vimeo.com/bl...,Post-IPO,$530 ,United States,1/18/2023
+Vimeo,New York,,1/2/2023,11%,Consumer,https://www.bizjourn...,Post-IPO,$450 ,United States,1/4/2023
+Pegasystems,Boston,245,1/1/2023,4%,HR,https://www.calcaliste...,Post-IPO,,United States,1/4/2023
+Amdocs,St. Louis,700,12/22/2022,3%,Support,https://www.sandiego...,Post-IPO,,United States,7/6/2023
+Micron,Boise,4800,12/21/2022,10%,Hardware,https://www.marketw...,Post-IPO,$50 ,United States,3/31/2023
+Qualcomm,San Diego,153,12/15/2022,,Hardware,https://www.bizjourn...,Post-IPO,,United States,1/4/2023
+TuSimple,San Diego,350,12/15/2022,25%,Transport,,Post-IPO,$648 ,United States,12/17/2022
+BigCommerce,Austin,180,12/14/2022,13%,Retail,,Post-IPO,$224 ,United States,12/15/2022
+Freshworks,SF Bay Area,90,,2%,Support,,Post-IPO,$484 ,United States,12/15/2022
+Quanergy Systems,SF Bay Area,72,,,Transport,,Post-IPO,$175 ,United States,12/15/2022
+Edgio,Phoenix,95,12/13/2022,10%,Infrastructure,https://www.marketsc...,Post-IPO,$462 ,United States,12/14/2022
+Viant,Los Angeles,46,12/13/2022,10%,Marketing,https://www.businessi...,Post-IPO,$115 ,United States,12/21/2022
+TechTarget,Boston,60,12/8/2022,5%,Marketing,https://www.marketw...,Post-IPO,$115 ,United States,12/11/2022
+Bakkt,Atlanta,,12/8/2022,15%,Crypto,https://bakkt.com/ne...,Post-IPO,$932 ,United States,12/10/2022
+Blue Apron,New York,,12/8/2022,10%,Food,https://investors.blue...,Post-IPO,$352 ,United States,12/8/2022
+Nerdy,St. Louis,,12/8/2022,17%,Education,https://www.bizjourn...,Post-IPO,$150 ,United States,12/11/2022
+Doma,SF Bay Area,515,12/6/2022,40%,Finance,https://investor.doma...,Post-IPO,$679 ,United States,12/7/2022
+Intel,SF Bay Area,201,12/6/2022,12%,Hardware,https://www.crn.com...,Post-IPO,$12 ,United States,12/30/2022
+BuzzFeed,New York,180,12/6/2022,12%,Media,https://variety.com/2...,Post-IPO,$696 ,United States,12/6/2022
+Adobe,SF Bay Area,,12/6/2022,11%,Marketing,https://www.bloombe...,Post-IPO,$2 ,United States,12/7/2022
+Zuora,SF Bay Area,,12/6/2022,,Finance,https://www.morningm...,Post-IPO,$647 ,United States,12/7/2022
+Springbig,Miami,37,12/1/2022,23%,Sales,https://mjbizdaily.c...,Post-IPO,$32 ,United States,12/19/2022
+SQZ Biotech,Boston,,12/1/2022,60%,Healthcare,https://www.fiercebio...,Post-IPO,$229 ,United States,12/11/2022
+Synlogic,Boston,,12/1/2022,25%,Healthcare,https://www.fiercebio...,Post-IPO,$321 ,United States,12/11/2022
+DoorDash,SF Bay Area,1250,11/30/2022,6%,Food,https://www.reuters.c...,Post-IPO,"$2,500 ",United States,11/30/2022
+Elastic,SF Bay Area,,11/30/2022,13%,Data,https://elastic.co/...,Post-IPO,$162 ,United States,12/1/2022
+Codexis,SF Bay Area,,11/29/2022,18%,Healthcare,https://codexis.com/...,Post-IPO,$162 ,United States,11/30/2022
+Western Digital,SF Bay Area,251,11/22/2022,7%,Hardware,https://www.bizjourn...,Post-IPO,$900 ,United States,2/13/2023
+Carvana,Phoenix,1500,11/18/2022,8%,Transport,https://www.wsj.com/...,Post-IPO,"$1,600 ",United States,11/18/2022
+Roku,SF Bay Area,200,11/17/2022,7%,Media,https://variety.com/2...,Post-IPO,$208 ,United States,11/17/2022
+Homepoint,,113,11/17/2022,3%,Real Estate,https://www.bizjournals.com,Post-IPO,$453 ,United States,11/19/2022
+Amazon,,10000,11/16/2022,5%,Retail,https://www.nytimes.com,Post-IPO,$2 ,United States,11/16/2022
+Cisco,,4100,11/16/2022,10%,Infrastructure,https://www.bizjournals.com,Post-IPO,$235 ,United States,11/17/2022
+Similarweb,,120,11/16/2022,22%,Other,https://en.globes.co.il,Post-IPO,$409 ,United States,11/16/2022
+Pear Therapeutics,,59,11/16/2022,6%,Healthcare,https://www.fiercebiotech.com,Post-IPO,"$2,000 ",United States,12/11/2022
+UiPath,,241,11/15/2022,9%,Data,https://www.marketwatch.com,Post-IPO,$453 ,United States,11/16/2022
+Asana,,180,11/15/2022,11%,Other,https://www.linkedin.com,Post-IPO,$382 ,United States,11/15/2022
+Rubicon Technologies,,,11/15/2022,5%,Other,https://www.sec.gov,Post-IPO,$791 ,United States,11/19/2022
+Illumina,,500,11/14/2022,22%,Healthcare,https://www.genomeweb.com,Post-IPO,$347 ,United States,11/16/2022
+Sema4,,500,11/14/2022,57%,Healthcare,https://www.marketwatch.com,Post-IPO,$409 ,United States,11/14/2022
+Science 37,,90,11/14/2022,7%,Healthcare,https://seekingalpha.com,Post-IPO,$212 ,United States,11/14/2022
+Pear Therapeutics,,59,11/14/2022,6%,Healthcare,https://www.bizjournals.com,Post-IPO,$624 ,United States,11/16/2022
+Cardlytics,,51,11/14/2022,10%,Marketing,https://www.housing.com,Post-IPO,$355 ,United States,11/14/2022
+Tricida,,,1/18/2023,13%,Healthcare,https://www.theinformation.com,Post-IPO,$665 ,United States,1/18/2023
+Offerpad,,,11/16/2022,13%,Real Estate,https://techcrunch.com,Post-IPO,$549 ,United States,11/16/2022
+Blend,,100,12/9/2022,,Finance,https://www.cnbc.com,Post-IPO,$326 ,United States,12/9/2022
+Coinbase,,60,11/10/2022,,Crypto,https://www.businessinsider.com,Post-IPO,"$26,000 ",United States,11/10/2022
+SoundHound,,45,11/10/2022,,Other,https://www.businessinsider.com,Post-IPO,$320 ,United States,11/10/2022
+Meta,,11000,11/9/2022,,Consumer,https://www.cnbc.com,Post-IPO,,United States,11/9/2022
+Redfin,,862,11/9/2022,,Real Estate,https://www.businessinsider.com,Post-IPO,,United States,11/9/2022
+Root Insurance,,137,11/9/2022,20%,Finance,https://www.bizjournals.com,Post-IPO,$527 ,United States,11/9/2022
+RingCentral,,,11/9/2022,10%,Other,https://www.barrons.com,Post-IPO,$30 ,United States,11/10/2022
+EverBridge,,200,11/8/2022,16%,Other,https://www.bizjournals.com,Post-IPO,$476 ,United States,1/18/2023
+Astra,,1000,11/8/2022,10%,Aerospace,https://www.linkedin.com,Post-IPO,$300 ,United States,11/8/2022
+NanoString,,110,11/8/2022,1%,Healthcare,https://www.genomeweb.com,Post-IPO,$731 ,United States,11/16/2022
+Salesforce,,3700,11/7/2022,5%,Sales,https://www.cnbc.com,Post-IPO,$65 ,United States,11/8/2022
+Varonis,,700,11/6/2022,50%,Security,https://www.calcalistech.com,Post-IPO,$30 ,United States,11/6/2022
+Twitter,,200,11/4/2022,13%,Consumer,https://www.nytimes.com,Post-IPO,"$12,900 ",United States,11/4/2022
+Lyft,,550,11/3/2022,1%,Transport,https://www.wsj.com,Post-IPO,"$4,900 ",United States,11/3/2022
+LendingTree,,200,11/3/2022,10%,Finance,https://investors.lendingtree.com,Post-IPO,"$1,500 ",United States,1/23/2023
+Affirm,,140,11/3/2022,82%,Finance,https://www.theinformation.com,Post-IPO,$16 ,United States,11/3/2022
+LiveRamp,,150,11/3/2022,18%,Marketing,https://www.marketwatch.com,Post-IPO,$445 ,United States,11/4/2022
+Rubius,,3000,11/3/2022,7%,Healthcare,https://www.fiercebiotech.com,Post-IPO,"$1,900 ",United States,11/16/2022
+Opendoor,,400,11/2/2022,8%,Real Estate,https://www.bloomberg.com,Post-IPO,$144 ,United States,11/2/2022
+Oracle,,300,11/1/2022,15%,Other,https://www.businessinsider.com,Post-IPO,$108 ,United States,11/16/2022
+Upstart,,,11/1/2022,5%,Retail,https://techcrunch.com,Post-IPO,$114 ,United States,11/1/2022
+Amazon,,,10/28/2022,,Hardware,https://www.geekwire.com,Post-IPO,$97 ,United States,1/10/2023
+Seagate,,,10/26/2022,,Fitness,https://www.cnbc.com,Post-IPO,,United States,3/31/2023
+MindBody,,,10/26/2022,,Real Estate,https://www.sanluisobispo.com,Post-IPO,,United States,10/26/2022
+Zillow,,,10/26/2022,,Real Estate,https://techcrunch.com,Post-IPO,,United States,10/26/2022
+F5,,100,10/21/2022,1%,Security,https://www.geekwire.com,Post-IPO,$65 ,United States,11/16/2022
+Volta,,,10/21/2022,54%,Transport,https://investors.volta.com,Post-IPO,$575 ,United States,10/21/2022
+Starry,,,10/20/2022,50%,Other,https://investors.starry.com,Post-IPO,$260 ,United States,10/20/2022
+Leafly,,56,10/18/2022,21%,Retail,https://investor.leafly.com,Post-IPO,$71 ,United States,10/19/2022
+Beyond Meat,,200,10/14/2022,19%,Food,https://www.cnbc.com,Post-IPO,$122 ,United States,10/14/2022
+Beyond Meat,,200,10/14/2022,19%,Food,https://www.fooddive.com,Post-IPO,$122 ,United States,11/6/2023
+Salesforce,,90,10/13/2022,11%,Sales,https://www.protocol.com,Post-IPO,$65 ,United States,10/13/2022
+HelloFresh,,611,10/10/2022,4%,Food,https://www.businessinsider.com,Post-IPO,$367 ,United States,10/15/2022
+Momentive,,180,10/10/2022,12%,Marketing,https://www.sec.gov,Post-IPO,"$1,100 ",United States,10/13/2022
+BioMarin,,120,10/7/2022,9%,Healthcare,https://www.fiercebiotech.com,Post-IPO,$585 ,United States,11/19/2022
+Peloton,,500,10/6/2022,9%,Fitness,https://www.wsj.com,Post-IPO,"$1,900 ",United States,10/6/2022
+8x8,,200,10/4/2022,10%,Support,https://www.channelfutures.com,Post-IPO,$253 ,United States,1/18/2023
+DocuSign,,671,9/28/2022,10%,Sales,https://www.sfgate.com,Post-IPO,$536 ,United States,9/28/2022
+Volta,,,9/28/2022,11%,Transport,https://investors.volta.com,Post-IPO,$575 ,United States,10/3/2022
+Compass,,271,9/20/2022,11%,Real Estate,https://www.geekwire.com,Post-IPO,"$1,600 ",United States,9/21/2022
+Ouster,,,9/20/2022,75%,Transport,https://www.businessinsider.com,Post-IPO,$282 ,United States,9/24/2022
+LivePerson,,193,9/15/2022,,Support,Internal memo,Post-IPO,$42 ,United States,9/15/2022
+Twilio,,800,9/14/2022,,Other,https://techcrunch.com,Post-IPO,$614 ,United States,9/14/2022
+Netflix,,30,9/14/2022,,Media,https://deadline.com,Post-IPO,"$121,900 ",United States,9/16/2022
+Rubius,,160,9/13/2022,,Healthcare,https://www.fiercebiotech.com,Post-IPO,$445 ,United States,11/16/2022
+Taboola,,100,9/13/2022,6%,Marketing,https://www.calcalistech.com,Post-IPO,$445 ,United States,9/13/2022
+Rent the Runway,,,9/12/2022,24%,Retail,https://www.wsj.com,Post-IPO,$526 ,United States,9/13/2022
+BigBear.ai,,,9/8/2022,7%,Data,https://www.bizjournals.com,Post-IPO,$200 ,United States,9/8/2022
+Snap,,1280,8/31/2022,20%,Consumer,https://www.theverge.com,Post-IPO,"$4,900 ",United States,8/30/2022
+GoodRx,,140,8/31/2022,16%,Healthcare,https://seekingalpha.com,Post-IPO,$910 ,United States,8/31/2022
+Hippo Insurance,,70,8/31/2022,10%,Finance,https://www.globes.com,Post-IPO,"$1,300 ",United States,8/31/2022
+TCR2,,30,8/31/2022,20%,Healthcare,https://www.fiercebiotech.com,Post-IPO,$173 ,United States,1/19/2023
+Okta,,24,8/26/2022,,Security,https://www.unleashed.com,Post-IPO,"$1,200 ",United States,8/26/2022
+Wayfair,,870,8/19/2022,5%,Retail,https://www.boston.com,Post-IPO,"$1,700 ",United States,8/19/2022
+New Relic,,110,8/18/2022,5%,Infrastructure,https://www.marketwatch.com,Post-IPO,$214 ,United States,8/18/2022
+Sema4,,250,8/15/2022,13%,Healthcare,https://ir.sema4.com,Post-IPO,$791 ,United States,8/15/2022
+Blend,,220,8/15/2022,12%,Finance,https://www.housing.com,Post-IPO,$665 ,United States,8/16/2022
+ContraFect,,16,8/15/2022,37%,Healthcare,https://www.benzinga.com,Post-IPO,$380 ,United States,8/15/2022
+ThredUp,,,8/15/2022,15%,Retail,https://www.retaildive.com,Post-IPO,$305 ,United States,8/16/2022
+Peloton,,784,8/12/2022,13%,Fitness,https://www.cnbc.com,Post-IPO,"$1,900 ",United States,8/12/2022
+Core Scientific,,,8/12/2022,10%,Crypto,https://blockworks.com,Post-IPO,$169 ,United States,8/12/2022
+Guidewire,,,8/11/2022,2%,Finance,Internal memo,Post-IPO,$24 ,United States,8/12/2022
+GoHealth,,800,8/9/2022,20%,Healthcare,https://www.chicagobusiness.com,Post-IPO,$75 ,United States,8/11/2022
+Nutanix,,270,8/9/2022,4%,Infrastructure,https://www.marketscout.com,Post-IPO,"$1,100 ",United States,8/9/2022
+Quanterix,,130,8/9/2022,25%,Healthcare,https://www.genomeweb.com,Post-IPO,$533 ,United States,11/16/2022
+Absci,,40,8/9/2022,,Healthcare,https://www.absci.com,Post-IPO,$237 ,United States,8/10/2022
+Berkeley Lights,,,8/9/2022,12%,Healthcare,https://investors.berkeley.com,Post-IPO,$272 ,United States,8/9/2022
+Kaltura,,,8/9/2022,10%,Media,https://en.globes.co.il,Post-IPO,$166 ,United States,8/9/2022
+Groupon,,500,8/8/2022,15%,Retail,https://techcrunch.com,Post-IPO,"$1,400 ",United States,8/8/2022
+Vroom,,337,8/8/2022,,Transport,https://www.autonews.com,Post-IPO,"$1,300 ",United States,8/8/2022
+Warby Parker,,63,8/8/2022,,Consumer,https://www.businessinsider.com,Post-IPO,$535 ,United States,8/8/2022
+Doma,,250,8/4/2022,13%,Finance,https://www.inman.com,Post-IPO,$679 ,United States,8/5/2022
+10X Genomics,,100,8/4/2022,8%,Healthcare,https://www.genome.com,Post-IPO,$242 ,United States,8/4/2022
+RingCentral,,50,8/4/2022,,Support,https://www.bizjournals.com,Post-IPO,$44 ,United States,8/4/2022
+Beyond Meat,,40,8/3/2022,4%,Food,https://www.bloomberg.com,Post-IPO,$122 ,United States,8/4/2022
+Robinhood,,713,8/2/2022,23%,Finance,https://techcrunch.com,Post-IPO,"$5,600 ",United States,8/2/2022
+Latch,,115,8/2/2022,37%,Security,https://www.globene.com,Post-IPO,$342 ,United States,8/2/2022
+Butterfly Network,,,8/2/2022,10%,Healthcare,Internal memo,Post-IPO,$530 ,United States,8/2/2022
+Allbirds,,23,7/28/2022,,Retail,Internal memo,Post-IPO,$202 ,United States,7/28/2022
+2U,,,7/28/2022,20%,Education,https://www.insidehighered.com,Post-IPO,$426 ,United States,7/28/2022
+Rivian,,840,7/27/2022,6%,Transport,https://www.cnn.com,Post-IPO,"$10,700 ",United States,7/27/2022
+Outbrain,,38,7/26/2022,3%,Marketing,https://en.globes.co.il,Post-IPO,$394 ,United States,7/26/2022
+Pear Therapeutics,,25,7/25/2022,9%,Healthcare,https://www.massdev.com,Post-IPO,$409 ,United States,7/25/2022
+AppGate,,130,7/21/2022,22%,Security,https://m.marketscreener.com,Post-IPO,"$4,900 ",United States,7/21/2022
+Lyft,,60,7/20/2022,2%,Transport,https://www.wsj.com,Post-IPO,$533 ,United States,7/20/2022
+Invitae,,1000,7/19/2022,,Healthcare,https://www.genome.com,Post-IPO,"$2,000 ",United States,7/19/2022
+Vimeo,,,7/18/2022,6%,Consumer,https://www.businessinsider.com,Post-IPO,$450 ,United States,7/18/2022
+Canoo,,58,7/1/2022,6%,Transport,https://www.businessinsider.com,Post-IPO,$300 ,United States,7/1/2022
+Enjoy,,400,6/30/2022,18%,Retail,https://news.crunchbase.com,Post-IPO,$310 ,United States,6/30/2022
+Unity,,200,6/29/2022,4%,Other,https://kotaku.com,Post-IPO,"$1,300 ",United States,6/29/2022
+AppLovin,,300,6/27/2022,12%,Marketing,https://www.bizjournals.com,Post-IPO,"$1,600 ",United States,6/28/2022
+UiPath,,210,6/27/2022,5%,Data,https://www.cnbc.com,Post-IPO,"$2,000 ",United States,6/27/2022
+Cue,,170,6/27/2022,,Healthcare,https://www.genome.com,Post-IPO,$999 ,United States,6/27/2022
+Netflix,,300,6/23/2022,3%,Media,https://www.cnbc.com,Post-IPO,"$121,900 ",United States,6/23/2022
+IronNet,,90,6/22/2022,35%,Security,https://www.crn.com,Post-IPO,$410 ,United States,9/17/2022
+IronNet,,55,6/22/2022,17%,Security,https://irironnet.com,Post-IPO,$410 ,United States,6/24/2022
+Sprinklr,,50,6/22/2022,,Support,https://www.businessinsider.com,Post-IPO,$429 ,United States,6/25/2022
+TaskUs,,52,6/21/2022,0%,Support,Internal memo,Post-IPO,$279 ,United States,6/21/2022
+Coinbase,,1100,6/14/2022,18%,Crypto,https://www.cnbc.com,Post-IPO,$549 ,United States,6/14/2022
+Redfin,,470,6/14/2022,8%,Real Estate,https://www.streetinsider.com,Post-IPO,$319 ,United States,6/14/2022
+Compass,,450,6/14/2022,10%,Real Estate,https://www.bloomberg.com,Post-IPO,"$1,600 ",United States,6/14/2022
+Desktop Metal,,,6/13/2022,12%,Other,https://www.marketwatch.com,Post-IPO,$811 ,United States,6/13/2022
+Stitch Fix,,330,6/9/2022,15%,Retail,https://www.cnbc.com,Post-IPO,$79 ,United States,6/9/2022
+Sonder,,250,6/8/2022,21%,Travel,Internal memo,Post-IPO,$839 ,United States,6/8/2022
+Bird,,138,6/7/2022,23%,Transport,Internal memo,Post-IPO,$783 ,United States,6/7/2022
+Tesla,,,6/3/2022,10%,Transport,https://www.cnbc.com,Post-IPO,"$20,200 ",United States,11/9/2022
+PayPal,,83,5/23/2022,,Finance,https://www.bizjournals.com,Post-IPO,$216 ,United States,5/25/2022
+Latch,,130,5/20/2022,28%,Security,https://www.globene.com,Post-IPO,$342 ,United States,5/21/2022
+Skillz,,70,5/20/2022,10%,Consumer,https://techcrunch.com,Post-IPO,$287 ,United States,5/21/2022
+Netflix,,150,5/17/2022,1%,Media,https://www.cnbc.com,Post-IPO,"$121,900 ",United States,5/17/2022
+Carvana,,2500,5/10/2022,12%,Transport,https://techcrunch.com,Post-IPO,"$1,600 ",United States,5/10/2022
+Doma,,310,5/10/2022,15%,Finance,https://www.housing.com,Post-IPO,$679 ,United States,5/12/2022
+Latch,,30,5/10/2022,6%,Security,https://techcrunch.com,Post-IPO,$342 ,United States,5/11/2022
+Vroom,,270,5/9/2022,14%,Transport,https://www.marketwatch.com,Post-IPO,"$1,300 ",United States,5/9/2022
+Netflix,,200,4/28/2022,,Media,https://www.thewrap.com,Post-IPO,"$121,900 ",United States,5/11/2022
+Robinhood,,340,4/26/2022,9%,Finance,https://www.cnbc.com,Post-IPO,"$5,600 ",United States,4/26/2022
+Lemonade,,52,4/20/2022,,Finance,https://coverager.com,Post-IPO,$481 ,United States,5/27/2022
+Blend,,200,4/19/2022,10%,Finance,https://www.housing.com,Post-IPO,$665 ,United States,4/19/2022
+Talis Biomedical,,,3/15/2022,25%,Healthcare,https://www.fool.com,Post-IPO,$8 ,United States,6/17/2022
+Sezzle,,,3/10/2022,20%,Finance,https://www.protocol.com,Post-IPO,$301 ,United States,3/10/2022
+Adaptive Biotechnologies,,100,3/8/2022,12%,Healthcare,https://www.geekwire.com,Post-IPO,$406 ,United States,5/29/2022
+Wish,,190,3/1/2022,15%,Retail,https://www.marketwatch.com,Post-IPO,"$1,600 ",United States,5/13/2022
+Peloton,,2800,2/8/2022,20%,Fitness,https://techcrunch.com,Post-IPO,"$1,900 ",United States,2/8/2022
+Root Insurance,,330,1/20/2022,,Finance,https://coverager.com,Post-IPO,$527 ,United States,1/23/2022
+Zillow,,2000,11/2/2021,25%,Real Estate,https://www.geekwire.com,Post-IPO,$97 ,United States,11/2/2021
+Zymergen,,120,9/23/2021,,Other,https://www.bizjournals.com,Post-IPO,$974 ,United States,9/25/2021
+New Relic,,160,4/6/2021,7%,Infrastructure,https://siliconangle.com,Post-IPO,$215 ,United States,4/6/2021
+Dropbox,,315,1/13/2021,15%,Other,https://www.cnbc.com,Post-IPO,"$1,700 ",United States,1/13/2021
+Cue Health,San Diego,230,5/3/2024,49%,Healthcare,https://www.beckersh.com,Post-IPO,$899 ,United States,5/4/2024
+Rivian,Los Angeles,150,5/3/2024,,Transportation,https://abc7.com/rivian,Post-IPO,"$10,700 ",United States,5/11/2024
+Luminar,Orlando,140,5/3/2024,20%,Transportation,https://techcrunch.com,Post-IPO,$780 ,United States,5/4/2024
+Sprinklr,New York,116,5/3/2024,3%,Support,https://techcrunch.com,Post-IPO,$429 ,United States,5/3/2024
+Bakkt,Atlanta,28,5/3/2024,,Crypto,https://seekingalpha.com,Post-IPO,$932 ,United States,5/4/2024
+Peloton,New York,400,5/2/2024,15%,Fitness,https://www.cnbc.com,Post-IPO,"$1,900 ",United States,5/2/2024
+Google,SF Bay Area,200,5/1/2024,,Consumer,https://www.cnbc.com,Post-IPO,$26 ,United States,5/2/2024
+Tesla,Austin,500,4/30/2024,,Transportation,https://www.theverge.com,Post-IPO,"$20,200 ",United States,5/1/2024
+Akili Interactive,Boston,,4/30/2024,46%,Healthcare,https://investors.akili.com,Post-IPO,$271 ,United States,5/2/2024
+Rivian,Detroit,,4/17/2024,1%,Transportation,https://www.reuters.com,Post-IPO,"$10,700 ",United States,4/18/2024
+Take-Two,New York,579,4/16/2024,5%,Consumer,https://www.ign.com,Post-IPO,"$4,100 ",United States,4/16/2024
+Tesla,Austin,14000,4/15/2024,10%,Transportation,https://www.nytimes.com,Post-IPO,"$20,200 ",United States,4/15/2024
+Intel,SF Bay Area,62,4/9/2024,,Hardware,https://www.crn.com,Post-IPO,$12 ,United States,4/11/2024
+Apple,SF Bay Area,614,4/4/2024,,Hardware,https://www.bloomberg.com,Post-IPO,"$1,200 ",United States,4/4/2024
+GoPro,SF Bay Area,,3/26/2024,4%,Consumer,https://www.wsj.com,Post-IPO,$288 ,United States,4/8/2024
+Dell,Austin,6000,3/25/2024,5%,Hardware,https://siliconangle.com,Post-IPO,$176 ,United States,3/27/2024
+Singular Genomics,San Diego,,3/19/2024,20%,Healthcare,https://www.genomeweb.com,Post-IPO,$33 ,United States,4/11/2024
+Ancestry,Lehi,81,3/14/2024,6%,Consumer,https://endpts.com,Post-IPO,$462 ,United States,4/18/2024
+Edgio,Phoenix,80,3/4/2024,10%,Infrastructure,https://investors.edgio.com,Post-IPO,"$1,700 ",United States,3/7/2024
+Fisker,Los Angeles,,2/29/2024,15%,Transportation,https://techcrunch.com,Post-IPO,"$1,700 ",United States,2/29/2024
+Electronic Arts,SF Bay Area,670,2/28/2024,5%,Consumer,https://www.cnbc.com,Post-IPO,$2 ,United States,2/28/2024
+Vacasa,Portland,320,2/28/2024,5%,Travel,https://www.oregonlive.com,Post-IPO,$834 ,United States,2/29/2024
+Bumble,Austin,350,2/27/2024,30%,Consumer,https://www.cnbc.com,Post-IPO,$313 ,United States,2/27/2024
+Expedia,Seattle,1500,2/26/2024,8%,Travel,https://www.geekwire.com,Post-IPO,"$3,300 ",United States,2/27/2024
+Affirm,Pittsburgh,60,2/21/2024,,Finance,https://www.bnnbreaking.com,Post-IPO,"$1,500 ",United States,2/22/2024
+BuzzFeed,New York,,2/21/2024,16%,Media,https://variety.com,Post-IPO,$696 ,United States,2/22/2024
+Rivian,Detroit,,2/21/2024,10%,Transportation,https://techcrunch.com,Post-IPO,"$10,700 ",United States,2/22/2024
+Toast,Boston,550,2/15/2024,10%,Food,https://www.bloomberg.com,Post-IPO,$962 ,United States,2/15/2024
+Sonder,SF Bay Area,106,2/15/2024,17%,Travel,https://www.sec.gov,Post-IPO,$839 ,United States,2/21/2024
+Cisco,SF Bay Area,4250,2/14/2024,5%,Infrastructure,https://www.cnbc.com,Post-IPO,"$2,900 ",United States,2/14/2024
+Instacart,SF Bay Area,250,2/13/2024,7%,Food,https://www.cnbc.com,Post-IPO,$137 ,United States,2/13/2024
+Impinj,Seattle,50,2/13/2024,10%,Other,https://www.bizjournals.com,Post-IPO,$229 ,United States,3/14/2024
+Riskified,New York,40,2/13/2024,6%,Retail,https://en.globes.co.il,Post-IPO,$525 ,United States,2/14/2024
+SiriusXM,New York,160,2/12/2024,3%,Media,https://variety.com,Post-IPO,$529 ,United States,3/17/2024
+Pure Storage,SF Bay Area,275,2/8/2024,,Data,https://blocksandfiles.com,Post-IPO,$948 ,United States,2/8/2024
+Getaround,SF Bay Area,,2/8/2024,30%,Transportation,https://techcrunch.com,Post-IPO,$565 ,United States,2/8/2024
+Tenable,Baltimore,,2/8/2024,5%,Security,https://www.bnnbreaking.com,Post-IPO,$536 ,United States,2/8/2024
+DocuSign,SF Bay Area,440,2/6/2024,6%,Sales,https://www.cnbc.com,Post-IPO,$108 ,United States,2/6/2024
+Amazon,Seattle,400,2/7/2024,,Retail,https://www.businessinsider.com,Post-IPO,"$4,900 ",United States,2/7/2024
+Snap,Los Angeles,500,2/5/2024,10%,Consumer,https://www.cnbc.com,Post-IPO,"$4,900 ",United States,2/5/2024
+Cue Health,San Diego,245,2/2/2024,30%,Healthcare,https://www.sandiego.com,Post-IPO,$899 ,United States,2/5/2024
+Okta,SF Bay Area,400,2/1/2024,7%,Security,https://www.cnbc.com,Post-IPO,"$1,200 ",United States,2/1/2024
+Zoom,SF Bay Area,150,2/1/2024,2%,Other,https://www.cnbc.com,Post-IPO,$276 ,United States,2/1/2024
+Illumina,San Diego,111,2/1/2024,,Healthcare,https://www.sandiego.com,Post-IPO,$28 ,United States,2/2/2024
+Zuora,SF Bay Area,,1/31/2024,8%,Finance,https://www.sec.gov,Post-IPO,$647 ,United States,2/2/2024
+PayPal,SF Bay Area,2500,1/30/2024,9%,Finance,https://www.bloomberg.com,Post-IPO,$216 ,United States,1/30/2024
+Block,SF Bay Area,1000,1/30/2024,10%,Finance,https://www.business.com,Post-IPO,$150 ,United States,1/30/2024
+Procore,Santa Barbara,,1/30/2024,4%,Construction,Internal memo,Post-IPO,$654 ,United States,2/28/2024
+iRobot,Boston,350,1/29/2024,31%,Consumer,https://www.cnbc.com,Post-IPO,$30 ,United States,1/29/2024
+Salesforce,SF Bay Area,700,1/26/2024,1%,Sales,https://www.wsj.com,Post-IPO,$65 ,United States,1/26/2024
+Microsoft,Seattle,1900,1/25/2024,,Other,https://www.theverge.com,Post-IPO,$1 ,United States,1/25/2024
+Jamf,Minneapolis,,1/25/2024,6%,Other,https://www.streetinsider.com,Post-IPO,$332 ,United States,1/25/2024
+Aurora,Pittsburgh,,1/24/2024,3%,Transport,https://techcrunch.com,Post-IPO,"$3,700 ",United States,1/25/2024
+Desktop Metal,Boston,,1/24/2024,20%,Retail,https://irdesktopmet.com,Post-IPO,$811 ,United States,1/25/2024
+eBay,SF Bay Area,1000,1/23/2024,9%,Transport,https://www.cnbc.com,Post-IPO,"$1,200 ",United States,1/23/2024
+Vroom,New York,800,1/23/2024,90%,Retail,https://www.calcaliste.com,Post-IPO,"$1,300 ",United States,1/23/2024
+Wayfair,Boston,1650,1/19/2024,13%,Retail,https://www.cnbc.com,Post-IPO,"$1,700 ",United States,1/19/2024
+Amazon,Seattle,30,1/18/2024,,Retail,https://www.cnbc.com,Post-IPO,$108 ,United States,1/19/2024
+Cloudflare,SF Bay Area,40,1/11/2024,,Security,https://twitter.com/ea.com,Post-IPO,$332 ,United States,1/11/2024
+Google,SF Bay Area,1000,1/10/2024,,Consumer,https://www.theverge.com,Post-IPO,$26 ,United States,1/11/2024
