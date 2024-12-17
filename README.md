@@ -98,15 +98,14 @@ Usage: Open the HTML file in a browser to interact with the plot and explore tre
 2. Company Layoff Heatmaps
 These heatmaps highlight the distribution of layoffs across companies and regions.
 
-Company Layoff Heatmap
+### Company Layoff Heatmap  
+**Description**: Displays the distribution of companies that initiated layoffs.  
+[Click here to view the interactive heatmap](visualization_results/us_layoff_heatmap_offline.html)
 
-![Company Layoff Heatmap](visualization_results/us_layoff_heatmap_offline.html)
-Description: Displays the distribution of companies that initiated layoffs.
-Layoff Count Regional Heatmap
+### Layoff Count Heatmap  
+**Description**: Visualizes the number of layoffs across different regions in the U.S.  
+[Click here to view the interactive heatmap](visualization_results/us_layoff_heatmap_weighted.html)
 
-![Layoff Count Heatmap](visualization_results/us_layoff_heatmap_weighted.html)
-Description: Visualizes the number of layoffs across different regions in the U.S.
-Usage: Open the respective HTML files in a browser to view interactive heatmaps.
 
 3. Regression Visualization Results
 These visualizations summarize the relationship between layoffs and stock price movements.
