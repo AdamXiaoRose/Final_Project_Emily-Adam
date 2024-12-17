@@ -124,5 +124,5 @@ pip install pandas numpy matplotlib statsmodels datetime seaborn yfinance
 ## **Project Maintainer**
 
 Maintained by: Shuti Zhao, Xiao Xu  
-Contact: xx155@georgetown.edu  
+Contact: xx155@georgetown.edu/sz734@georgetown.edu
 
