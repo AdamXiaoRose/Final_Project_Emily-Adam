@@ -125,3 +125,6 @@ pip install pandas numpy matplotlib statsmodels datetime seaborn yfinance
 
 ![Cumulative Return vs Layoffs](visualization results/Cumulative Return in 3 Months vs Layoff Percentage.png)
 
+Maintained by: Shuti Zhao, Xiao Xu  
+Contact: xx155@georgetown.edu  
+
