@@ -100,11 +100,11 @@ These heatmaps highlight the distribution of layoffs across companies and region
 
 Company Layoff Heatmap
 
-![Company Layoff Heatmap](visualization_results/us_layoff_heatmap_offline.png)
+![Company Layoff Heatmap](visualization_results/us_layoff_heatmap_offline.html)
 Description: Displays the distribution of companies that initiated layoffs.
 Layoff Count Regional Heatmap
 
-![Layoff Count Heatmap](visualization_results/us_layoff_heatmap_weighted.png)
+![Layoff Count Heatmap](visualization_results/us_layoff_heatmap_weighted.html)
 Description: Visualizes the number of layoffs across different regions in the U.S.
 Usage: Open the respective HTML files in a browser to view interactive heatmaps.
 
