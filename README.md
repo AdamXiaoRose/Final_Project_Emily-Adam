@@ -38,6 +38,8 @@ While layoffs are often perceived as negative, the results show that stock price
 │   └── us_layoff_heatmap_weighted.html
 │
 └── proposal.pdf                  # Project proposal
+│
+└── The_Effect_of_Post_COVID_19_Layoff_Announcements_on_Stock_Performance__Evidence_from_U_S__Tech_Firms_and_the_Role_of_Layoff_Magnitude.pdf                  # Project report
 ```
 
 ---
